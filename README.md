@@ -1,2 +1,2 @@
 # git_practicePractice line by Viktoria
-Second Practice Line
+Third practice line the first one was deleted
